@@ -3,5 +3,5 @@ A1
 B
 C
 D
-F
-G
+GGGGG
+Z
